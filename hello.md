@@ -5,3 +5,16 @@ Hell00 world.
 ## Heading 2
 ![Image](http://[url](https://www.bkacontent.com/wp-content/uploads/2015/12/PhotoDescriptionSplash.webp)/a.png)
 `Inline code`
+* List
+* List
+* List
+
+Horizontal rule:
+
+---
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
