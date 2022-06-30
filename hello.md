@@ -14,4 +14,4 @@ Horizontal rule:
 ---
 
 ```
-![Image](https://helpx.adobe.com/in/stock/how-to/visual-reverse-image-search.html)
+![Image](http://https://helpx.adobe.com/in/stock/how-to/visual-reverse-image-search.html/a.png)
